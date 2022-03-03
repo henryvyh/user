@@ -15,6 +15,38 @@
              "year":2020
             }
         ]
+    },
+    {
+      "id":"76056591",      
+      "name":"Lia",
+      "email":"lia@gmail.com",
+      "lastname":"Rivas Laos",
+      "number":"910480721",
+        "vehicle":[
+            {
+            "id":1,
+            "brand":"Hyundai",
+            "placa":"AXT-322",
+             "model":"new elantra",
+             "year":2021
+            }
+        ]
+    },
+    {
+      "id":"76056592",      
+      "name":"Andrea",
+      "email":"adrea@gmail.com",
+      "lastname":"Montes Molina",
+      "number":"910480722",
+        "vehicle":[
+            {
+            "id":1,
+            "brand":"Hyundai",
+            "placa":"AXT-322",
+             "model":"accent hatchback",
+             "year":2018
+            }
+        ]
     }
 ]
 }
